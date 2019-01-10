@@ -8,7 +8,7 @@ new Vue({
   el: "vuedz",
   data(){
     return {
-      msg: "Vue.js Algerians community"
+      msg: "Vue.js Algerian community"
     }
   }
 })
